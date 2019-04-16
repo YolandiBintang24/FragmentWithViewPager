@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragementWithViewPage</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Chat_text">Chat fragment</string>
+    <string name="Status_text">Chat fragment</string>
+    <string name="Panggilan_text">Chat fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
